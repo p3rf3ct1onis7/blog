@@ -1,0 +1,4 @@
+baseURL = 'http://perfectionist.github.io/'
+languageCode = 'en-us'
+title = 'root@perfectionist'
+theme = 'risotto'
